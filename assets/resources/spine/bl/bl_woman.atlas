@@ -1,0 +1,83 @@
+
+bl_woman.png
+size: 94,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangzi
+  rotate: false
+  xy: 2, 27
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+naodai
+  rotate: false
+  xy: 2, 67
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: true
+  xy: 44, 37
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 44, 8
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 73, 116
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+youshouzhi
+  rotate: true
+  xy: 35, 17
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 73, 96
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+zuiba
+  rotate: true
+  xy: 71, 34
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 69, 4
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 2, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 73, 77
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1

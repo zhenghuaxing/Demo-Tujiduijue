@@ -1,0 +1,111 @@
+
+rb_qi.png
+size: 243,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_lian
+  rotate: false
+  xy: 202, 52
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+a_maozi
+  rotate: false
+  xy: 2, 5
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+a_weapons1
+  rotate: false
+  xy: 108, 42
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+a_yifushang
+  rotate: false
+  xy: 202, 96
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+a_yifuxia
+  rotate: false
+  xy: 221, 35
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+a_youshou
+  rotate: false
+  xy: 61, 20
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+a_youtui
+  rotate: true
+  xy: 101, 7
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+a_zuoshou
+  rotate: false
+  xy: 182, 16
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+a_zuotui
+  rotate: false
+  xy: 145, 2
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+mahoutui1
+  rotate: false
+  xy: 2, 53
+  size: 48, 110
+  orig: 48, 110
+  offset: 0, 0
+  index: -1
+mahoutui2
+  rotate: false
+  xy: 52, 66
+  size: 54, 97
+  orig: 54, 97
+  offset: 0, 0
+  index: -1
+maqiantui1
+  rotate: false
+  xy: 202, 152
+  size: 36, 114
+  orig: 36, 114
+  offset: 0, 0
+  index: -1
+maqiantui2
+  rotate: false
+  xy: 167, 53
+  size: 33, 110
+  orig: 48, 110
+  offset: 0, 0
+  index: -1
+mashenti
+  rotate: false
+  xy: 2, 165
+  size: 198, 101
+  orig: 198, 101
+  offset: 0, 0
+  index: -1
+mawei
+  rotate: false
+  xy: 108, 69
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1

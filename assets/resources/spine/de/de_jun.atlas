@@ -1,0 +1,97 @@
+
+de_jun.png
+size: 134,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 67, 2
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 71
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+naodai
+  rotate: false
+  xy: 2, 31
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 59, 60
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+shouqiang
+  rotate: false
+  xy: 59, 26
+  size: 44, 32
+  orig: 46, 32
+  offset: 1, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 105, 35
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 102, 87
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+youshoubi
+  rotate: false
+  xy: 2, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 105, 3
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 48, 3
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 102, 61
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 39, 41
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 25, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1

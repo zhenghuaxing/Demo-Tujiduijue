@@ -1,0 +1,83 @@
+
+hanjian.png
+size: 167,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pigu
+  rotate: false
+  xy: 127, 25
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 26
+  size: 50, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+shouqiang
+  rotate: false
+  xy: 127, 48
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 150, 7
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 54, 30
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 125, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 2, 3
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 54, 2
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: false
+  xy: 75, 4
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+zuoshoubi
+  rotate: false
+  xy: 100, 33
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 100, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1

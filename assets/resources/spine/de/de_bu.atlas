@@ -1,0 +1,97 @@
+
+de_bu.png
+size: 248,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao
+  rotate: false
+  xy: 177, 64
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 133, 57
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+toukui
+  rotate: true
+  xy: 84, 55
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+weapons1
+  rotate: true
+  xy: 2, 2
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+yifushang
+  rotate: true
+  xy: 84, 9
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+yifuxia
+  rotate: false
+  xy: 217, 49
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 183, 42
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 206, 3
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 140, 12
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 214, 27
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 183, 19
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 217, 72
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+zuoshouzhi
+  rotate: true
+  xy: 183, 2
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1

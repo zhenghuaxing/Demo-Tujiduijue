@@ -1,0 +1,118 @@
+
+y_motuo.png
+size: 273,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houlunzi
+  rotate: false
+  xy: 2, 129
+  size: 64, 62
+  orig: 65, 62
+  offset: 1, 0
+  index: -1
+motuoche
+  rotate: false
+  xy: 2, 291
+  size: 269, 116
+  orig: 270, 126
+  offset: 1, 0
+  index: -1
+pao
+  rotate: false
+  xy: 2, 243
+  size: 133, 46
+  orig: 133, 46
+  offset: 0, 0
+  index: -1
+qiangshenti
+  rotate: true
+  xy: 2, 86
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+qiangtou
+  rotate: true
+  xy: 2, 34
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+qiangyoushou
+  rotate: false
+  xy: 2, 220
+  size: 69, 21
+  orig: 69, 21
+  offset: 0, 0
+  index: -1
+qiangyoutui
+  rotate: true
+  xy: 117, 96
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+qiangzuoshou
+  rotate: true
+  xy: 102, 2
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+qiangzuotui
+  rotate: false
+  xy: 57, 22
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+qianlunzi
+  rotate: true
+  xy: 73, 176
+  size: 65, 62
+  orig: 66, 62
+  offset: 1, 0
+  index: -1
+qishenti
+  rotate: true
+  xy: 68, 129
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+qitou
+  rotate: true
+  xy: 61, 77
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+qiyoushou
+  rotate: false
+  xy: 2, 193
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+qizuoshou
+  rotate: false
+  xy: 57, 44
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+siwang
+  rotate: true
+  xy: 137, 12
+  size: 277, 129
+  orig: 277, 129
+  offset: 0, 0
+  index: -1
+zidan
+  rotate: false
+  xy: 106, 41
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1

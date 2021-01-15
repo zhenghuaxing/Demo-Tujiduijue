@@ -1,0 +1,212 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      false,
+      null,
+      null,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      null,
+      true,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      null,
+      true,
+      null,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 760,
+  "design-resolution-width": 1334,
+  "excluded-modules": [
+    "DragonBones",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "UI",
+    "floor",
+    "wall",
+    "platform",
+    "myrole",
+    "enrole",
+    "mybull",
+    "enbull",
+    "myeye",
+    "eneye",
+    "mybull2",
+    "enbull2"
+  ],
+  "last-module-event-record-time": 1584550050285,
+  "simulator-orientation": true,
+  "simulator-resolution": {
+    "height": 760,
+    "width": 1334
+  },
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": true,
+  "start-scene": "f9e4f40f-79e5-4a17-a89d-98190f3b0c1f",
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

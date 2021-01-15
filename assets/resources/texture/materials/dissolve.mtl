@@ -1,0 +1,31 @@
+{
+  "__type__": "cc.Material",
+  "_name": "dissolve",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "ba6c7efe-15de-49c4-adb6-daf8c1ceabc5"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_DIS": true
+      },
+      "props": {
+        "disLevel": 0,
+        "disColor": {
+          "__type__": "cc.Color",
+          "r": 32,
+          "g": 9,
+          "b": 9,
+          "a": 255
+        },
+        "disTexture": {
+          "__uuid__": "8a35ac54-2e27-44c0-8a89-bfb6190c0260"
+        }
+      }
+    }
+  }
+}

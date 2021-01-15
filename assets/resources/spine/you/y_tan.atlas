@@ -1,0 +1,62 @@
+
+y_tan.png
+size: 295,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huihuai
+  rotate: true
+  xy: 159, 132
+  size: 374, 134
+  orig: 374, 136
+  offset: 0, 2
+  index: -1
+luntai1
+  rotate: false
+  xy: 153, 14
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+luntai2
+  rotate: false
+  xy: 112, 14
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+luntai3
+  rotate: false
+  xy: 193, 15
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+luntai4
+  rotate: false
+  xy: 2, 2
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+luntai5
+  rotate: false
+  xy: 57, 2
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+paotai
+  rotate: false
+  xy: 2, 54
+  size: 283, 76
+  orig: 283, 76
+  offset: 0, 0
+  index: -1
+tanke
+  rotate: true
+  xy: 2, 132
+  size: 374, 155
+  orig: 374, 176
+  offset: 0, 0
+  index: -1
